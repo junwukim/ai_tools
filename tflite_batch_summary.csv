@@ -1,0 +1,3 @@
+﻿model_name,model_path,schema_version,subgraph_name,operators_total,supported_layers,total_params,total_mul,total_add,total_ops,total_mac,total_output_elements,fc_layers,fc_mac,conv_layers,conv_mac,depthwise_layers,depthwise_mac,measured_time_ms
+fc3_runnable_model.tflite,C:/Users/junwoo/OneDrive/AI_tool\fc3_runnable_model.tflite,3,main,3,3,26,20,20,40,20,6,3,20,0,0,0,0,
+fc3_test_model.tflite,C:/Users/junwoo/OneDrive/AI_tool\fc3_test_model.tflite,3,main,3,3,26,20,20,40,20,6,3,20,0,0,0,0,
